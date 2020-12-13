@@ -1,1 +1,1 @@
-# kafka-connect-js-api
+# kafka-connect-js-client

@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "lib": [ "es2015" ],
+    "outDir": "lib",
+    "alwaysStrict": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "declaration": true
+  },
+  "include": ["src/**/*"]
+}
